@@ -2,6 +2,7 @@
 
 ## 1. GetRandomValue
 - 확률을 사용한 난수 생성 구현
+https://github.com/Hughk87/SampleCodes/tree/main/GetRandomValue
 
 ## 2. GenericListSort
 - List 정렬 구현
