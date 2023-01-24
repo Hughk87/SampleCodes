@@ -13,5 +13,9 @@ https://github.com/Hughk87/SampleCodes/tree/main/GenericListSort
 ## 3. CouponSystem
 - CSV Load / PlayerPrefab 을 이용한 쿠폰 시스템 구현
 
+https://github.com/Hughk87/SampleCodes/tree/main/CouponSystem
+
 ## 4. 3rdPartyLibrary
 - GPGS / Unity Ads / Google Admob / Firebase Analytics
+
+https://github.com/Hughk87/SampleCodes/tree/main/3rdPartyLibrary
