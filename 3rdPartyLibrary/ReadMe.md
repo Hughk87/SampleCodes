@@ -1,9 +1,13 @@
-# Get-Random-Value
+# 3rdPartyLibrary
 
-## 1. Use Random Seed
+https://blog.naver.com/socceri/222972177062
 
-* 디바이스의 Millisecond를 seed로 사용하는 난수 생성 구현
+## 1. 광고 모듈 Adapter 클래스 구현
 
-## 2. Variety Random Func
+## 2. 광고 모듈 GoogleAdmob 클래스 구현
 
-* 다양한 난수 생성 함수 구현 (bool / int / index)# SampleCodes
+## 3. 여러개의 광고 모듈 클래스를 번갈아 가며 사용하는 매니져 클래스 구현
+
+## 4. GooglePlayGameService 매니져 클래스 구현
+
+## 5. Firebase Analytics 라이브러리를 사용하는 매니져 클래스 구현
